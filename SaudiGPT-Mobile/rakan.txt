@@ -1,0 +1,32 @@
+audio file : https://saudigpt3.azurewebsites.net/uploads/files/6cbdc480-c568-11ed-a6d3-c9186329e64d.mp3
+pdf file : https://saudigpt3.azurewebsites.net/uploads/files2/ab005560-c4f9-11ed-be2c-4f0c1283a971.pdf
+
+"summary" : "
+The meeting discussed the final stages of a hackathon with 250 teams competing. The teams will be judged based on five criteria, including the practical applications of their solutions and the ability to guarantee stability. Each team will have three minutes to present to a panel of four experts in one of 12 rooms. Following the presentations, the top 10 teams will be announced on a large screen and presented to a crowd of over 350 people. The team with the best solution and ability to convince the judges will win, and the judges will evaluate each team based on a set of predefined criteria. It is important for each team to have a distinct name, a strong presentation, and active participation from all members. Plan B should always be ready in case of technical issues or delays.",
+"bullits" : "
+Important Information:
+- Final discussion will last for 48 hours and end at 4.80pm
+- There will be 12 rooms with 3-4 experts each to evaluate the criteria
+- Each team will have only 3 minutes to present their project
+- The criteria for evaluation includes solving local problems, practical applications, scoring, stability, and team participation
+- Each criterion has 5 levels of evaluation: Weak, Acceptable, Good, Excellent, and Distinguished
+- The winners will be announced on a large screen
+- The top 10 teams will be announced and presented to an audience of over 350 people
+- There will be 8 experts from different fields on the committee
+Tasks:
+- Name your team and project, and prepare a title
+- Present your solution to a local problem with practical applications
+- Have a plan B ready in case of technical difficulties
+- Convince the committee that your solution is the best and focus on the design of your presentation
+- Work as a team and have more than one person participate to increase your chances of winning.",
+"effectiveness" : "
+1. Criteria should be clearly explained to ensure fairness for all participants.
+2. Each team should have a name and a title for their project.
+3. The local problem solution should be the top priority with a weightage of 40%.
+4. Practical applications of the solution should be emphasized.
+5. Teams should focus on convincing the committee and showcasing their ability to think creatively.
+6. Stability of the solution should be demonstrated.
+7. Presentation design should be emphasized for effective communication.
+8. Team participation and collaboration should be encouraged.
+9. There should be a clear plan B in case of any issues.
+10. Evaluation criteria should be consistent and objective.",
