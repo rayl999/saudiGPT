@@ -1,0 +1,22 @@
+{
+    "summarizations": [
+        {
+            "_id": "6413f2506a0b3449782d2979",
+            "file": "uploads\\files\\a49089e0-c47f-11ed-a08a-e9335f9d8e9e.mp3",
+            "output": "\n\nThe meeting between Rayan and his manager Riyad was to discuss the organization's request for a ready procedure and a T3 data center. They are working on a cool product called NDA, which involves many components and dangerous things. Rayan is currently in the data gathering stage and preparing reports to be submitted to the organization by Sunday. They also have a meeting with all the VPs on March 20th to discuss the requirements that Zaino, Mobily and STC need. There were no new tasks discussed for either Rayan or Riyad during the meeting.",
+            "createdAt": "2023-03-17T04:53:36.922Z",
+            "updatedAt": "2023-03-17T04:53:36.922Z",
+            "__v": 0,
+            "id": "6413f2506a0b3449782d2979"
+        },
+        {
+            "_id": "6413f6ebfddb780002e21715",
+            "file": "uploads/files/6484f0e0-c482-11ed-9be4-cbaa4009119a.mp3",
+            "output": "\n\nSummary:\nRayan and Riyad had a meeting with an organization regarding a product called NDA. The organization requested a procedure and a T3 data center. Rayan is in the process of data gathering and preparing reports to submit by Sunday. A meeting with all VPs from Zaino, Mobily and STC will occur on March 20th after all documents are ready.\n\nNew tasks:\nIt is not mentioned if there are any new tasks for Rayan or Riyad.",
+            "createdAt": "2023-03-17T05:13:15.930Z",
+            "updatedAt": "2023-03-17T05:13:15.930Z",
+            "__v": 0,
+            "id": "6413f6ebfddb780002e21715"
+        }
+    ]
+}

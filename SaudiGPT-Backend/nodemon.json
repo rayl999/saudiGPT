@@ -1,0 +1,6 @@
+{
+  "env": {
+    "DB_DEV": "mongodb+srv://Sani:2022@sani.oztpsbh.mongodb.net/?retryWrites=true&w=majority",
+    "DB_PROD": "mongodb+srv://Sani:2022@sani.oztpsbh.mongodb.net/?retryWrites=true&w=majority"
+  }
+}

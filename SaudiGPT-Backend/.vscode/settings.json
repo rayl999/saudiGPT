@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e8adb4c6-5024-4dff-bf05-1b97f8bcf4f3/AppServices/subscriptions/e8adb4c6-5024-4dff-bf05-1b97f8bcf4f3/resourceGroups/Sani/providers/Microsoft.Web/sites/Sani-backend",
+    "appService.deploySubpath": "."
+}
