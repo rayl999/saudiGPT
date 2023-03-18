@@ -20,6 +20,7 @@ class FeaturesBox extends StatelessWidget {
         height: 150,
         width: 160,
         margin: const EdgeInsets.all(8),
+        padding: const EdgeInsets.all(2),
         decoration: BoxDecoration(
           color: Colors.white,
           borderRadius: BorderRadius.circular(8),
@@ -32,6 +33,7 @@ class FeaturesBox extends StatelessWidget {
         ),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
+          crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             Icon(
               icon,
@@ -46,6 +48,7 @@ class FeaturesBox extends StatelessWidget {
                 fontSize: 18,
                 fontWeight: FontWeight.bold,
               ),
+              textAlign: TextAlign.center,
             ),
           ],
         ),

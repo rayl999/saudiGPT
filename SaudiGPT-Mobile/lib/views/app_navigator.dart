@@ -27,7 +27,7 @@ class AppNavigator extends GetView<MainController> {
           padding: const EdgeInsets.only(right: 8),
           alignment: Alignment.center,
           child: Icon(
-            ChatBot.boticons,
+            ChatBot.logo_1,
             color: AppColors.primary,
             size: 40,
           ),

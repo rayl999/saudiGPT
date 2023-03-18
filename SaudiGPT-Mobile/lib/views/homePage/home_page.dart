@@ -34,8 +34,8 @@ class HomePage extends StatelessWidget {
                   },
                 ),
                 FeaturesBox(
-                  label: "تلخيص الاجتماعات",
-                  icon: Icons.groups,
+                  label: "تلخيص الايميل",
+                  icon: Icons.email,
                   onTap: () {},
                 ),
               ],
@@ -44,13 +44,13 @@ class HomePage extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
                 FeaturesBox(
-                  label: "تلخيص الاجتماعات",
-                  icon: Icons.groups,
+                  label: "تلخيص المستندات",
+                  icon: Icons.upload_file_sharp,
                   onTap: () {},
                 ),
                 FeaturesBox(
-                  label: "تلخيص الاجتماعات",
-                  icon: Icons.groups,
+                  label: "التحقق من السياق",
+                  icon: Icons.search,
                   onTap: () {},
                 ),
               ],

@@ -16,6 +16,7 @@ class PreviousPage extends GetView<MainController> {
           date: controller.meetingData[index]["date"],
           notes: controller.meetingData[index]["notes"].length,
           tasks: controller.meetingData[index]["tasks"].length,
+          index: index,
         );
       },
     );

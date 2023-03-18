@@ -1,6 +1,7 @@
 import 'package:chatgpt_hackathon/views/app_navigator.dart';
 import 'package:chatgpt_hackathon/views/homePage/home_page.dart';
 import 'package:chatgpt_hackathon/views/meeting/meeting_page.dart';
+import 'package:chatgpt_hackathon/views/meetingDetailsPage/meeting_details_page.dart';
 import 'package:chatgpt_hackathon/views/routes/binding_classes.dart';
 import 'package:get/get.dart';
 

@@ -1,25 +1,35 @@
+import 'package:chatgpt_hackathon/controllers/MainController.dart';
+import 'package:chatgpt_hackathon/views/meetingDetailsPage/meeting_details_page.dart';
 import 'package:chatgpt_hackathon/views/styles.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-class MeetingCard extends StatelessWidget {
+class MeetingCard extends GetView<MainController> {
   const MeetingCard({
     super.key,
     required this.title,
     required this.date,
     required this.notes,
     required this.tasks,
+    required this.index,
   });
   final String title;
   final String date;
   final int notes;
   final int tasks;
+  final int index;
   @override
   Widget build(BuildContext context) {
     return InkWell(
       onTap: () {
-        //TODO: Navigate to meeting details page
-        // Get.toNamed(Routes.meetingDetailsPage);
+        Get.to(MeetingDetailsPage(
+          title: title,
+          summary: controller.meetingData[index]["summary"],
+          tasks: controller.meetingData[index]["tasks"][0],
+          notes: controller.meetingData[index]["notes"][0],
+          language: controller.meetingData[index]["language"],
+          key: key,
+        ));
       },
       child: Container(
         height: 100,
